@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @HEMANTH PUTREVU
-- Working in WIPRO LIMITED
-- I'm learning C#.NET
-- Trained on ANGULAR
-- Reach me //hemanth.putrevu99@gmail.com
+
 - 
 - 
 
